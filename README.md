@@ -1,2 +1,2 @@
-# NIT-Delhi-5th-Semester
-Labworks and lecture notes done in courses
+# SEMESTER 5
+Course works done in the 5th semester at National Institute of Teechnology, Delhi.
